@@ -638,7 +638,9 @@ Thanks again! 😊
 
 > If you have any questions, feel free to reach out through [Gitter](https://gitter.im/FreeCodeCamp/Contributors) or by commenting below. 💬
 ```
-
+###Contributing
+Deepak Singh Bhainsora
+@deepaksbmj
 ### Closing
 
 > When PR is invalid.
